@@ -9,5 +9,5 @@ public class FashionStoreBeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FashionStoreBeApplication.class, args);
 	}
- // tao confic
+ // tao confic2222
 }
